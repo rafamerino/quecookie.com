@@ -1,6 +1,6 @@
 ---
 name: '➕ Crear nueva cookie'
-about: 'Si has visto una cookie que no está en https://quecookie.com, avísanos'
+about: 'Si has visto una cookie que no está en quecookie.com, avísanos'
 labels: 'nueva'
 title: 'Nueva cookie: _NOMBRE'
 ---
