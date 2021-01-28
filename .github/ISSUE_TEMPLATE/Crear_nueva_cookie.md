@@ -12,3 +12,4 @@ Pon también el nombre de la cookie en el título del ticket (reemplazar por "_N
 1. Nombre: 
 2. Web donde has visto la cookie:
 3. Finalidad de la cookie? (si la sabes)
+4. Proveedor de la cookie? (si lo sabes, p.ej. "Google")
