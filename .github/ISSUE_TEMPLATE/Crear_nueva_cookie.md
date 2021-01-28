@@ -8,7 +8,7 @@ title: 'Nueva cookie: _NOMBRE'
 Pon también el nombre de la cookie en el título del ticket (reemplazar por "_NOMBRE")
 -->
 
-## Información de la cookie que quieres que añadamos
+## Información de la cookie
 1. Nombre: 
 2. Web donde has visto la cookie:
 3. Finalidad de la cookie? (si la sabes)
