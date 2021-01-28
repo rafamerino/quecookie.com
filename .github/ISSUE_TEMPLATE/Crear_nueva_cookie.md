@@ -4,7 +4,8 @@ about: 'Si has visto una cookie que no está en quecookie.com, avísanos'
 labels: 'nueva'
 title: 'Nueva cookie: _NOMBRE'
 ---
-<!-- POR FAVOR, facilítanos toda la información posible y pon también el nombre de la cookie en el título del ticket (donde pone _NOMBRE)
+<!-- POR FAVOR, facilítanos toda la información posible 
+Pon también el nombre de la cookie en el título del ticket (reemplazar por "_NOMBRE")
 -->
 
 ## Información de la cookie que quieres que añadamos
