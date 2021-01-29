@@ -1,5 +1,5 @@
 ---
-name: '➕ Create a new cookie (🇬🇧)'
+name: '➕ Create a new cookie (english)'
 about: 'Tell us about some cookie not published in quecookie.com'
 labels: 'nueva'
 title: 'New cookie: _NAME'
