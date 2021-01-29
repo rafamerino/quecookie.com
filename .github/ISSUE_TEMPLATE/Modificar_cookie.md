@@ -1,5 +1,5 @@
 ---
-name: '✏️ Sugerencia para una cookie'
+name: '✏️ Sugerencia cookie existente'
 about: 'Para completar o modificar información de una cookie publicada en quecookie.com'
 labels: 'sugerencia'
 title: 'Sugerencia cookie: _NOMBRE'
